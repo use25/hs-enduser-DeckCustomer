@@ -1,0 +1,47 @@
+[BASIC]
+HERO = Archmage Khadgar
+FORMAT = Twist
+DECKNAME = Khadgar
+
+#        
+[DECK]
+1x Arcane Intellect
+# 1x Jaina's Gift
+# 1x (1) Nature Studies
+1x TSC_772
+1x (3) Radiance of Azshara
+1x E.T.C., Band Manager
+# Adding more one space (after space next to #) means this is a sideboard card
+#   1x Kirin Tor Elemental
+  1x Archmage's Apprentice
+1x 52639
+1x Coral Keeper
+1x Ignite
+1x Chenvaala
+1x Mana Cyclone
+1x Dune Sculptor
+1x Inquisitive Creation
+1x Elemental Inspiration
+1x Evocation
+1x Mana Giant
+1x Puzzlemaster Khadgar
+1x Power of Creation
+1x Windchill
+1x Multicaster
+1x Bracing Cold
+1x First Flame
+2x Flame Geyser (Core)
+1x Flamewaker
+1x Primordial Glyph
+1x Lady Naz'jar
+1x Astromancer
+1x Arcane Giant
+1x Wisdom of Norgannon
+
+[90749]
+1x Archmage's Insight
+
+[Zilliax Deluxe 3000]
+1x Ticking Module
+1x Ticking Module
+1x 110441
