@@ -34,6 +34,9 @@ When you use Copy Deck feature from Hearthstone client, it should result in a cl
 ```
 DeckCustomer will recognize these line patterns:
 * Line that starts with ``### `` represents **Deck name**.
+* Line that starts with ``# Base: <deckcode or url>`` represents **Base deck that you will expand upon**. Any cards below will be added to the deck additionally.
+** Example: ``https://hearthstone.blizzard.com/en-us/deckbuilder?class=mage%2Cneutral&deckFormat=standard&deckcode=AAECAf0EAQAAAAA%3D&multiClass=mage&set=standard``
+** Example: ``AAECAf0EAQAAAAA%3D``
 * Line that starts with ``# Format: <format>`` represents **Deck format**.
   * You can modify ``<format>`` into either ``Standard``, ``Wild``, ``Classic``, ``Twist``.
 * Line that starts with ``# <number>x `` represents a **deck card** with ``<number>`` as total count.
@@ -48,6 +51,7 @@ DeckCustomer will recognize these line patterns:
       * **dbfId** of the card. Example: ``110441``
       * **String id** of the card. Example: ``TOY_330t6``
       * **Hearthstone Wiki's page name** of the card. Example: [``Zilliax Deluxe 3000 (Virus art)``](https://hearthstone.wiki.gg/wiki/Zilliax_Deluxe_3000_\(Virus_art\))
+  * If DeckCustomer cannot recognize cards, it will still produce a Placeholder card tile image with ``<cardname>`` as the displayed text
 ## DeckCustomer's unique format
 DeckCustomer also comes up with a unique format you can write, like this:
 ```
@@ -80,6 +84,7 @@ DeckCustomer will recognize these line patterns:
     * **dbfId** of the card. Example: ``110441``
     * **String id** of the card. Example: ``TOY_330t6``
     * **Hearthstone Wiki's page name** of the card. Example: [``Zilliax Deluxe 3000 (Virus art)``](https://hearthstone.wiki.gg/wiki/Zilliax_Deluxe_3000_\(Virus_art\))
+  * If DeckCustomer cannot recognize cards, it will still produce a Placeholder card tile image with ``<cardname>`` as the displayed text
 * Line ``[<cardname>]`` informs DeckCustomer that they are going to read lines that represent **sideboard cards** inside ``<cardname>``.
   * The lines below this will also add into ``<cardname>``'s existing sideboard if it already contains cards from ``[DECK]`` patterns.
  # Modifying config.ini
