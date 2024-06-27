@@ -1,32 +1,27 @@
-### Custom Priest2
-# Class: Priest
+### Custom Mage2
+# Class: Mage
 # Format: Standard
 # Year of the Pegasus
 #
-# 1x (1) Anduin's Gift
-# 1x (1) Astral Automaton
-# 1x (1) Crimson Clergy
-# 2x (1) Deafen
-# 2x (1) Fan Club
-# 1x (1) Flash Heal
-# 2x (1) Funnel Cake
-# 2x (1) Holy Smite
-# 2x (1) Idol's Adoration
-# 2x (1) Psychic Conjurer
-# 2x (1) Shadowtouched Kvaldir
-# 2x (1) Ship's Chirurgeon
-# 2x (2) Creation Protocol
-# 2x (2) False Disciple
-# 2x (2) Hidden Gem
-# 2x (2) Papercraft Angel
-# 1x (4) E.T.C., Band Manager
-#   1x (1) Anduin's Gift
-#   1x (1) Astral Automaton
-#   1x (1) Crimson Clergy
-# 1x (0) Zilliax Deluxe 3000
-#   1x (0) Zilliax Deluxe 3000
-#   1x (2) Haywire Module
-#   1x (2) Power Module
+# 2x (1) Scarab Keychain
+# 2x (2) Aqua Archivist
+# 1x (2) Drink Server
+# 2x (2) Gold Panner
+# 2x (2) Greedy Partner
+# 1x (3) Gorgonzormu
+# 2x (3) Mixologist
+# 1x (4) King Tide
+# 1x (4) Raylla, Sand Sculptor
+# 2x (5) Sleet Skater
+# 2x (5) Surfalopod
+# 1x (6) Puzzlemaster Khadgar
+# 1x (8) Kalecgos
+# 2x (8) Tsunami
+# 2x (9) Sunset Volley
+# 1x (10) The Galactic Projection Orb
+# 2x Volley Maul
+# 1x Sanc'Azel
+# 2x Grillmaster
 # 
 #AAECAZ/HAgai6APLoAT9xAWm8QXHpAbxqQYMhZ8Evp8EucQFoukF7fcF+/gFzP8FyYAG9ZgGlqAGxKgG3PMGAAEGougD/cQFpvEF/cQF8akG/cQF8bMGx6QG8rMGx6QGku8Gx6QGAAA=
 # 

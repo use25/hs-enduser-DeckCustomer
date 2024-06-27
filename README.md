@@ -85,7 +85,7 @@ DeckCustomer will recognize these line patterns:
  # Modifying config.ini
  * ``[TILE_VIEW]``
    * ``MAX_UNIQUE_DECK_CARDS_PER_COLUMN``: Number of unique card tiles per column (including sideboard cards). When a column's total reaches this number, a new column is created to the right.
-   * `` MAX_CUSTOM_CARDS_PER_COLUMN``: Number of images from ``inputs/custom_<deckname>`` folders per column in the final image. When a column's total reaches this number, a new column is created to the right.
+   * ``MAX_CUSTOM_CARDS_PER_COLUMN``: Number of images from ``inputs/custom_<deckname>`` folders per column in the final image. When a column's total reaches this number, a new column is created to the right.
    * ``CUSTOM_CARDS_MIN_HEIGHT``: Minimum pixels of custom images. DeckCustomer won't shrink those images below that height threshold.
    * ``OUTPUT``:
       * = ``PNG``: Save deck composition as ``.png`` file (with Hearthstone-like visual, deck hero portrait, total number of cards, total dust to craft)

@@ -1,0 +1,8 @@
+### Custom Mage2
+# Base: https://hearthstone.blizzard.com/en-us/deckbuilder?class=mage&deckFormat=standard&deckcode=AAECAf0EB7PFBu%2FTBLqnBuPPBoe%2FBpbWBrrOBgmYnQa8zgbFugb0mwbLnwbOnAaQgwaGvwa0pwYAAA%3D%3D&multiClass=mage&set=standard
+# Class: Mage
+# Format: Standard
+#
+# 2x Volley Maul
+# 1x Sanc'Azel
+# 2x Grillmaster
